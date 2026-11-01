@@ -19,3 +19,7 @@ USB 마이크로 짧게 시험 녹음하고 관리 → 종료하고 저장 → �
 ## 구성
 index.html, style.css, app.js, manifest.webmanifest, sw.js와 앱 아이콘. 서버나 외부 전송 없이 기기에만 녹음합니다.
 GitHub Pages의 main 브랜치 루트에서 배포합니다.
+
+## 글꼴
+그리운 몽토리체 (그리운 X 세히). https://noonnu.cc/font_page/1748
+웹폰트를 원본 그대로 포함하여 오프라인에서도 사용합니다. 폰트 개작·수정·판매 금지.
